@@ -1,0 +1,33 @@
+# Qt-specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+moc_*.cpp
+moc_*.h
+moc_predefs.h
+qrc_*.cpp
+ui_*.h
+
+# Объектные файлы и библиотеки
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Исполняемые файлы
+*.exe
+*.out
+
+# Файлы сборки
+Makefile
+Makefile.*
+debug/
+release/
+build/
+.qmake.stash
+
+# IDE-specific
+.vscode/
+.idea/
+*.user
