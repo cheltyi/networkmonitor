@@ -5,3 +5,7 @@ usage:
 4. sudo ./NetworkMonitor
 
 troubleshoot: @chvl - discord
+
+haves filters by TCP / UDP, IP, port, proccess. also has CSV export.
+
+only russian language.
