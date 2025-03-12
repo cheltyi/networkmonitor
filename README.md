@@ -6,7 +6,7 @@ usage:
 
 has support for dark and light theme, tested on breeze kde
 
-troubleshoot: @chvl - discord
+troubleshoot: @cheltyis - discord
 
 has filters by TCP / UDP, IP, port, proccess. also has CSV export.
 
